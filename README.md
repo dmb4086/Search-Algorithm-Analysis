@@ -19,9 +19,8 @@ element contained in that data set. After a search for a single element using a 
 across all of the searches for that data set. Similarly, for each data set, I executed a search for 1,000 random values between 1 and 10,000 that are **not** contained in the data set. The Table below shows you my recorded observations
 
 
-|                      	|Successful Searches 	|Unsuccessful Searches 	| Theoretical 	    |  
+|                      	| Successful Searches 	| Unsuccessful Searches 	| Theoretical 	    |  
 |----------------------	|---------------------	|-----------------------	|-------------	|
-|
-|  Linear Search        | 500.4495400000002   	| 29.43                 	|             	|  
+| Linear Search         | 500.4495400000002   	| 29.43                 	|             	|  
 | Binary Search        	| 8.88934             	| 9.5                   	|             	|   
 | Interpolation Search 	| 3.2270999999999996  	| 1.29                  	|             	|  
