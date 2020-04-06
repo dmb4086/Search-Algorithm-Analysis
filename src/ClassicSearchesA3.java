@@ -107,12 +107,8 @@ public class ClassicSearchesA3 {
         int key;
 //        int[] nums = {15, 98, 7, 22, 9, 61, 57};
         int nums[][] = new int[100][];
-
-
-
         for (int i = 0; i<100;i++){
             nums[i] = ArrGenerator();
-
         }
 
 
